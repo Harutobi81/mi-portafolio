@@ -1,5 +1,5 @@
-# Proyecto de mi portafolio
+# Proyecto de Mi Portafolio
 
 Lorem Ipsum...
 
-Azul de la empresa: #5667adf
+Azul de la empresa: #000032
