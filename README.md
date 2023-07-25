@@ -2,4 +2,5 @@
 
 Lorem Ipsum...
 
-Azul de la empresa: #000032
+
+About Me es una nueva página
